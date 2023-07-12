@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weatherverse-app/static/css/main.dfbdd214.css",
+    "main.js": "/weatherverse-app/static/js/main.06b3a16c.js",
+    "static/media/snowy.jpg": "/weatherverse-app/static/media/snowy.b2e0653047714ca129ec.jpg",
+    "index.html": "/weatherverse-app/index.html",
+    "main.dfbdd214.css.map": "/weatherverse-app/static/css/main.dfbdd214.css.map",
+    "main.06b3a16c.js.map": "/weatherverse-app/static/js/main.06b3a16c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbdd214.css",
+    "static/js/main.06b3a16c.js"
+  ]
+}
