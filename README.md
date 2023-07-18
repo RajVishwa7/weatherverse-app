@@ -1,3 +1,15 @@
+
+# WeatherVerse is an Weather Displaying app around the World.
+
+⚙️ **Tech Stack:**
+React, Tailwind Css, Axios, OpenWeatherMap API, 
+
+📝 **Description:** Weather Displaying app around the World using Open Weather Map API.
+
+- 📫 How to reach me **rajsoftwareengr@gmail.com**
+- ⚡ My Portfolio **https://raj-portfolio-dotnet.netlify.app/**
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
